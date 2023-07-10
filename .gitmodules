@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Kori000/vote-simple.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Kori000/vote-back.git
+[submodule "go"]
+	path = go
+	url = git@github.com:Kori000/vote-golang.git
